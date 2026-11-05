@@ -6,6 +6,8 @@ CleanFiascko is a collection of personal AI agent skills I created to bring my c
 
 It focuses on writing clean, readable, maintainable, and efficient code while keeping implementations simple, minimizing dependencies, and avoiding unnecessary complexity.
 
+The goal is simple: keep AI-assisted development aligned with my standards and avoid unnecessary fiascos caused by poorly guided AI.
+
 ## Philosophy
 
 CleanFiascko follows a few core principles:
