@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Dependencies / Build
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
