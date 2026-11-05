@@ -95,6 +95,7 @@ CleanFiascko/
 │   │   └── SKILL.md
 │   └── web-development/
 │       └── SKILL.md
+├── .gitattributes
 ├── .gitignore
 ├── AGENTS.md
 ├── LICENSE
