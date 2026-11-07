@@ -15,6 +15,9 @@ Follow my personal development philosophy when working with code.
 - Keep explanations concise, clear, and technical.
 - Ask questions only when necessary.
 - Provide detailed explanations only when requested.
+- Write naturally and authentically, avoiding generic AI-generated phrasing.
+- Avoid generic AI phrasing, exaggerated enthusiasm, repetitive expressions, and unnecessary filler.
+- Adapt the tone to the context while keeping writing direct, human, and concise.
 
 ## Code Quality
 
