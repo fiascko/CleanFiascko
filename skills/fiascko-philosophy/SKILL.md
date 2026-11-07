@@ -70,6 +70,7 @@ Follow my personal development philosophy when working with code.
 - Avoid unnecessary summaries and lengthy introductions.
 - Expand explanations only when requested or necessary.
 - Prioritize accuracy and completeness over token savings.
+- Prefer lightweight AI models for simple tasks and reserve advanced reasoning models for complex problems when model selection is available.
 
 ## Collaboration
 
