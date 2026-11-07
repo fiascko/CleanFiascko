@@ -55,6 +55,7 @@ Development guidelines for web projects, with a preference for native technologi
 
 - Vanilla HTML, CSS, and JavaScript
 - Simple and reusable architecture
+- Visual identity and design consistency
 - Performance and DOM optimization
 - Accessibility and responsive design
 - Security and browser compatibility

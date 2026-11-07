@@ -38,6 +38,15 @@ Apply these web-specific guidelines alongside `fiascko-philosophy` when working 
 - Avoid unnecessary animations, transitions, and expensive visual effects.
 - Preserve existing responsive behavior and visual consistency.
 
+## Design & Visual Consistency
+
+- Respect the project's existing visual identity and design language.
+- Reuse established colors, typography, spacing, components, and visual patterns.
+- Keep layouts, animations, transitions, and interactions consistent across the project.
+- Avoid generic AI-generated aesthetics, unnecessary gradients, excessive shadows, and decorative effects.
+- Prefer intentional, simple, and cohesive designs over unnecessary visual complexity.
+- Preserve existing design choices unless changes are explicitly requested.
+
 ## JavaScript
 
 - Prefer modern vanilla JavaScript and built-in browser APIs.
