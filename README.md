@@ -31,6 +31,7 @@ General development guidelines applicable to all programming projects.
 - Code quality and refactoring
 - Communication and collaboration
 - Context and token efficiency
+- Git workflow and commit conventions
 - Dependencies and security
 - Testing and verification
 

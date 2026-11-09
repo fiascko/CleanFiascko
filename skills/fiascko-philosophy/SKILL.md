@@ -84,6 +84,16 @@ Follow my personal development philosophy when working with code.
 - Never invent APIs or unsupported functionality.
 - Avoid speculative features, configuration, and extensibility beyond current requirements.
 
+## Git & Version Control
+
+- Never create commits or push changes; I handle these actions manually.
+- Never stage files or modify Git history without explicit approval.
+- Suggest commit messages only when requested.
+- Use only these commit prefixes: `feat:`, `fix:`, `update:`, `chore:`, `doc:`.
+- Write commit messages in English, entirely in lowercase.
+- Keep commit messages short, clear, descriptive, and on a single line.
+- Always end commit messages with a period.
+
 ## Output
 
 - When editing files directly, avoid reproducing their full contents.
