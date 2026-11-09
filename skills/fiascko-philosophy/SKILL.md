@@ -108,6 +108,16 @@ Follow my personal development philosophy when working with code.
 - Consider edge cases, performance, and memory usage.
 - Mention significant risks without making unrelated changes.
 
+## Secrets & Credentials
+
+- Never display, repeat, or expose API keys, passwords, tokens, or other secrets in chat responses.
+- Never request or generate real credentials unless strictly necessary.
+- Avoid reading, accessing, or manipulating secrets unless explicitly required for the task.
+- Never include secrets in source code, logs, examples, or generated files.
+- Use placeholders or environment variable references instead of actual credentials.
+- Never transmit secrets to external services or tools without explicit authorization.
+- If a secret is accidentally exposed, do not repeat it and recommend rotating or revoking it when appropriate.
+
 ## Testing
 
 - Validate code changes using available project tools and verification methods when possible.

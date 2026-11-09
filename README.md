@@ -32,7 +32,7 @@ General development guidelines applicable to all programming projects.
 - Communication and collaboration
 - Context and token efficiency
 - Git workflow and commit conventions
-- Dependencies and security
+- Dependencies, security, and credential protection.
 - Testing and verification
 
 [View Skill](skills/fiascko-philosophy/SKILL.md)
