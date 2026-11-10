@@ -32,7 +32,7 @@ General development guidelines applicable to all programming projects.
 - Communication and collaboration
 - Context and token efficiency
 - Git workflow and commit conventions
-- Dependencies, security, and credential protection.
+- Dependencies, security, and credential protection
 - Testing and verification
 
 [View Skill](skills/fiascko-philosophy/SKILL.md)
@@ -64,6 +64,20 @@ Development guidelines for web projects, with a preference for native technologi
 
 [View Skill](skills/web-development/SKILL.md)
 
+### Database Development
+
+Development guidelines for database design, queries, and data management, with strict read-only execution rules.
+
+- Database architecture and schema design
+- Query efficiency and optimization
+- Strict read-only database access
+- Data integrity and transaction design
+- Schema changes and migrations for manual execution
+- Credential protection and data security
+- Non-destructive verification
+
+[View Skill](skills/database-development/SKILL.md)
+
 ## How It Works
 
 CleanFiascko uses Markdown-based instructions to guide AI assistants when analyzing, writing, reviewing, or modifying code.
@@ -71,7 +85,7 @@ CleanFiascko uses Markdown-based instructions to guide AI assistants when analyz
 The skills are organized into two categories:
 
 - **General:** `fiascko-philosophy` defines the core development philosophy.
-- **Specialized:** `unity-development` and `web-development` provide additional guidelines for their respective technologies.
+- **Specialized:** `unity-development`, `web-development`, and `database-development` provide additional guidelines for their respective technologies.
 
 The `AGENTS.md` file provides an index and defines how the skills should be combined.
 
@@ -93,6 +107,8 @@ Support for automatic skill discovery and loading depends on the AI tool and its
 ```text
 CleanFiascko/
 ├── skills/
+│   ├── database-development/
+│   │   └── SKILL.md
 │   ├── fiascko-philosophy/
 │   │   └── SKILL.md
 │   ├── unity-development/
