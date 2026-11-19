@@ -97,6 +97,8 @@ Follow my personal development philosophy when working with code.
 ## Output
 
 - When editing files directly, avoid reproducing their full contents.
+- When working through chat without direct project integration, provide code directly in the conversation.
+- Never generate downloadable code files unless explicitly requested.
 - When providing code for manual integration, return complete, copy-paste-ready files unless snippets are requested.
 - Never omit existing code or use placeholders in complete files.
 - Identify modified files and summarize meaningful changes.
